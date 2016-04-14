@@ -1,5 +1,7 @@
 # HTML::Pipeline::TypogrubyFilter
 
+[![Build Status](https://travis-ci.org/bmikol/html-pipeline-typogruby_filter.svg?branch=master)](https://travis-ci.org/bmikol/html-pipeline-typogruby_filter)
+
 [Typogruby](https://github.com/avdgaag/typogruby) integration for [HTML::Pipeline](https://github.com/jch/html-pipeline). 
 
 Currently, all Typogruby's filter options are enabled; future version to add options with a context hash.
