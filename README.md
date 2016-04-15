@@ -1,6 +1,6 @@
 # HTML::Pipeline::TypogrubyFilter
 
-[![Build Status](https://travis-ci.org/bmikol/html-pipeline-typogruby_filter.svg?branch=master)](https://travis-ci.org/bmikol/html-pipeline-typogruby_filter)
+[![Build Status](https://travis-ci.org/bmikol/html-pipeline-typogruby_filter.svg?branch=master)](https://travis-ci.org/bmikol/html-pipeline-typogruby_filter) [![Dependency Status](https://www.versioneye.com/user/projects/57110ce5fcd19a00415b17c1/badge.svg?style=flat)](https://www.versioneye.com/user/projects/57110ce5fcd19a00415b17c1)
 
 [Typogruby](https://github.com/avdgaag/typogruby) integration for [HTML::Pipeline](https://github.com/jch/html-pipeline). 
 
